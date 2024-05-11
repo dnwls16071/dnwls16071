@@ -1,16 +1,44 @@
-### Hi there 👋
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hello!+You're+Welcome+To+My+Profile;My+Name+Is+Jang+Woo+Jin+From+Korea)](https://git.io/typing-svg)
 
-<!--
-**dnwls16071/dnwls16071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Current Status
 
-Here are some ideas to get you started:
+I have recently become interested in **Infra** and studying **JPA, Spring**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💪 Tech Stack
+<p align="center">
+  <b>Language: </b>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c" />
+  </a>
+  </br>
+  <b>FrameWork: </b>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,django,flask" />
+  </a>
+  </br>
+  <b>Database: </b>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+  </a>
+  </br>
+  <b>Infra: </b>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,linux,docker" />
+  </a>
+  </br>
+  <b>Tools: </b>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,idea,discord,notion,postman,vscode,git" />
+  </a>
+  </br>
+  <b>etc: </b>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,figma,pycharm" />
+</p>
+
+## 🏆 BaekJoon
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnwls16071)](https://solved.ac/dnwls16071/)
+
+## 📩 Blog
+[![Velog Badge](https://img.shields.io/badge/-Velog-20c997?logo=Vimeo&logoColor=white)](https://velog.io/@@dnwls4659)
