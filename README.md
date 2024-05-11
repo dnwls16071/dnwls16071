@@ -1,5 +1,3 @@
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hello!+You're+Welcome+To+My+Profile;My+Name+Is+Jang+Woo+Jin+From+Korea)](https://git.io/typing-svg)
-
 ## 👋 Current Status
 
 I have recently become interested in **Infra** and studying **JPA, Spring**.
