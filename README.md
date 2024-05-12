@@ -9,7 +9,7 @@ I have recently become interested in **Infra** and studying **JPA, Spring**.
     <img src="https://skillicons.dev/icons?i=java,python,c" />
   </a>
   </br>
-  <b>FrameWork: </b>
+  <b>Framework: </b>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,django,flask" />
   </a>
@@ -34,7 +34,7 @@ I have recently become interested in **Infra** and studying **JPA, Spring**.
     <img src="https://skillicons.dev/icons?i=arduino,figma,pycharm" />
 </p>
 
-## 🏆 BaekJoon
+## 🏆 Baekjoon
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnwls16071)](https://solved.ac/dnwls16071/)
 
