@@ -34,6 +34,18 @@ I have recently become interested in **Infra** and studying **JPA, Spring**.
     <img src="https://skillicons.dev/icons?i=arduino,figma,pycharm" />
 </p>
 
+## 🥇 Certificate
+
+- SQLD
+  
+- 정보처리기사
+
+- 컴퓨터활용능력 1급
+
+## ⚙ Project Experience
+
+- `푸드 브릿지`|배달 음식점과 소비자를 연결하는 중개 플랫폼(https://github.com/Food-Bridge/Back-end)
+
 ## 🏆 Baekjoon
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnwls16071)](https://solved.ac/dnwls16071/)
