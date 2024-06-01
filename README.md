@@ -2,6 +2,10 @@
 
 I have recently become interested in **Infra** and studying **JPA, Spring**.
 
+Currently, I need to become familiar with Java, JSP, Spring boot, etc... because of recruit, so I'm considering my plan.
+
+I want to leap forward as a Java developer who constantly learns and records things I don't know.
+
 ## 💪 Tech Stack
 <p align="center">
   <b>Language: </b>
