@@ -20,7 +20,7 @@ I want to leap forward as a Java developer who constantly learns and records thi
   </br>
   <b>Database: </b>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis" />
   </a>
   </br>
   <b>Infra: </b>
