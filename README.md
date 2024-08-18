@@ -38,6 +38,22 @@ I want to leap forward as a Java developer who constantly learns and records thi
     <img src="https://skillicons.dev/icons?i=arduino,figma,pycharm" />
 </p>
 
+## 💡 My Most Used Languages
+
+<p align="center">
+  <a href="https://github.com/dnwls16071">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnwls16071&layout=compact&show_icons=$true&show_owner=true&hide_title=true&theme=nord&hide=html" />
+  </a>
+</p>
+
+## 💡My Git Stats
+
+<p align="center">
+  <a href="https://github.com/dnwls16071">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dnwls16071&&show_icons=true&include_all_commits=false&theme=nord"/>
+  </a>
+</p>
+
 ## 🥇 Certificate
 
 - SQLD
@@ -61,4 +77,4 @@ I want to leap forward as a Java developer who constantly learns and records thi
 ![Programmers Badge](https://raw.githubusercontent.com/dnwls16071/Github_Programmers_Rank/main/result/result.svg?cache_buster=TIMESTAMP)
 
 ## 📩 Blog
-[![Velog Badge](https://img.shields.io/badge/-Velog-20c997?logo=Vimeo&logoColor=white)](https://velog.io/@@dnwls4659)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnwls4659&color=dark)](https://github.com/dnwls16071/velog-readme-stats)
