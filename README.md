@@ -48,7 +48,9 @@ I want to leap forward as a Java developer who constantly learns and records thi
 
 ## ⚙ Project Experience
 
-- `푸드 브릿지`|배달 음식점과 소비자를 연결하는 중개 플랫폼(https://github.com/Food-Bridge/Back-end)
+- `팀 프로젝트(푸드 브릿지)`|배달 음식점과 소비자를 연결하는 중개 플랫폼(https://github.com/Food-Bridge/Back-end)
+
+- `개인 프로젝트(게시판)`|인프런 김영한 강사님의 강의를 수강하면서 얻은 지식을 활용하여 개발한 프로젝트|
 
 ## 🏆 Baekjoon
 
