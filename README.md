@@ -77,4 +77,4 @@ I want to leap forward as a Java developer who constantly learns and records thi
 ![Programmers Badge](https://raw.githubusercontent.com/dnwls16071/Github_Programmers_Rank/main/result/result.svg?cache_buster=TIMESTAMP)
 
 ## 📩 Blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnwls4659&color=dark)](https://github.com/dnwls16071/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnwls4659&color=dark)](https://velog.io/@dnwls4659/posts)
