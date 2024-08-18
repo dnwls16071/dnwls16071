@@ -58,7 +58,7 @@ I want to leap forward as a Java developer who constantly learns and records thi
 
 ## 🏆 Programmers
 
-![Programmers Badge](https://raw.githubusercontent.com/dnwls16071/Programmers_Badge_Generator/main/result/result.svg?cache_buster=TIMESTAMP)
+![Programmers Badge](https://raw.githubusercontent.com/dnwls16071/Github_Programmers_Rank/main/result/result.svg?cache_buster=TIMESTAMP)
 
 ## 📩 Blog
 [![Velog Badge](https://img.shields.io/badge/-Velog-20c997?logo=Vimeo&logoColor=white)](https://velog.io/@@dnwls4659)
