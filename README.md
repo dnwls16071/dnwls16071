@@ -2,41 +2,40 @@
 
 I have recently become interested in **Infra** and studying **JPA, Spring**.
 
-Currently, I need to become familiar with Java, JSP, Spring boot, etc... because of recruit, so I'm considering my plan.
+Currently, I need to become familiar with Java, Thymeleaf, Spring boot, Restful API, etc... because of recruit, so I'm considering my plan.
 
 I want to leap forward as a Java developer who constantly learns and records things I don't know.
 
 ## 💪 Tech Stack
-<p align="center">
-  <b>Language: </b>
+Techs that I've used at least once
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,c" />
   </a>
   </br>
-  <b>Framework: </b>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,django,flask" />
+    <img src="https://skillicons.dev/icons?i=spring,django,flask,hibernate" />
   </a>
   </br>
-  <b>Database: </b>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis" />
   </a>
   </br>
-  <b>Infra: </b>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=aws,linux,docker,sentry" />
   </a>
   </br>
-  <b>Tools: </b>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,idea,discord,notion,postman,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=github,git,postman">
   </a>
   </br>
-  <b>etc: </b>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,figma,pycharm" />
-</p>
+    <img src="https://skillicons.dev/icons?i=idea,vscode" />
+  </a>
+  </br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,notion" />
+  </a>
 
 ## 💡 My Most Used Languages
 
