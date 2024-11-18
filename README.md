@@ -72,4 +72,4 @@
 
 ## 📫 Contact
 
-- GitHub: [https://github.com/dnwls16071](https://github.com/dnwls16071)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:dnwls16071@gmail.com)
