@@ -12,7 +12,7 @@
 </p>
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=confluent,kafka,rabbitmq"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=kafka,rabbitmq"/>
   </a>
 </p>
 <p align="left">
@@ -31,18 +31,33 @@
   </a>
 </p>
 
+## 📚 Current Interests
+
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=elasticsearch"/>
+  </a>
+</p>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin"/>
+  </a>
+</p>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=springbatch"/>
+  </a>
+</p>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=kafka"/>
+  </a>
+</p>
+
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dnwls16071&theme=nord&column=7" />
   <br/><br/>
-</div>
-
-## 🏆 Algorithm Solutions
-<div align="center">
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnwls16071)](https://solved.ac/dnwls16071/)
-
-![Programmers Badge](https://raw.githubusercontent.com/dnwls16071/Github_Programmers_Rank/main/result/result.svg)
 </div>
 
 ## 📫 Contact
