@@ -53,6 +53,11 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=kafka"/>
   </a>
 </p>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=datadog"/>
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 <div align="center">
