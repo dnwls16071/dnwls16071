@@ -22,22 +22,17 @@
 </p>
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,docker,kubernetes,terraform,nginx"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,docker,kubernetes,terraform"/>
   </a>
 </p>
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions,jenkins"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions"/>
   </a>
 </p>
 
 ## 📚 Current Interests
 
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=elasticsearch"/>
-  </a>
-</p>
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin"/>
