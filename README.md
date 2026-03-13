@@ -1,7 +1,7 @@
 ## ❓ Current Interests
 
-- 운영 환경에 필요한 아키텍처 설계
-- 시스템 디자인
+- Architecture Design
+- System Design
 
 ## 🛠 Technologies and tools I've worked with
 
