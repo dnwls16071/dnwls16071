@@ -2,6 +2,7 @@
 
 - Architecture Design
 - System Design
+- Learning how to organize my writing in my own way
 
 ## 🛠 Technologies and tools I've worked with
 
