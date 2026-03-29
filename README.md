@@ -37,4 +37,8 @@
   </a>
 </p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:dnwls16071@gmail.com)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dnwls16071&theme=tokyonight)](https://git.io/streak-stats)
+
+![woojin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dnwls16071&theme=tokyo-night)
+
+
