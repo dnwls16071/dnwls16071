@@ -36,6 +36,11 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions"/>
   </a>
 </p>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=grpc,graphql"/>
+  </a>
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dnwls16071&theme=tokyonight)](https://git.io/streak-stats)
 
