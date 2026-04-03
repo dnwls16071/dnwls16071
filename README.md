@@ -2,7 +2,7 @@
 
 - Architecture Design
 - System Design
-- Learning how to organize my writing in my own way
+- A growing interest in viewing problems holistically, considering how different parts of a system interact rather than focusing on isolated issues.
 
 ## 🛠 Technologies and tools I've worked with
 
