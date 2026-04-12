@@ -46,4 +46,8 @@
 
 ![woojin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dnwls16071&theme=tokyo-night)
 
+## ⭐️ Badge
 
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
