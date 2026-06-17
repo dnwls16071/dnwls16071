@@ -42,9 +42,9 @@
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dnwls16071&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dnwls16071&theme=highcontrast)](https://git.io/streak-stats)
 
-![woojin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dnwls16071&theme=tokyo-night)
+![woojin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dnwls16071&theme=github-light)
 
 ## ⭐️ Badge
 
