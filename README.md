@@ -1,9 +1,8 @@
 <p align="center">생각을 코드로 정리하는 백엔드 개발자입니다.</p>
 <p align="center">
-  "왜 이렇게 동작하는가"를 직접 구현해보며 이해하고,<br>
-  부분이 아닌 전체 시스템의 상호작용 관점에서 문제를 바라봅니다.
+  기술 선택의 근거와 트레이드오프를 명확히 하고 그 판단을 기록하고 공유합니다.<br>
+  AI를 포함한 기술의 가능성과 제약을 살피며 시스템 전체의 관점에서 설계하고 구현과 운영으로 검증합니다.
 </p>
-
 
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-E76F00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" />
