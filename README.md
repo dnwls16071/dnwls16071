@@ -69,13 +69,13 @@
 ## Technical Docs
 
 <!-- RECENT_HANDBOOK_DOCS:START -->
-- [Consistency Models and Regional Network Partitions](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/interview/distributed-system-interview/05_consistency_models_and_regional_network_partitions.md)
-- [Persistence Context, Flushing, and Dirty Checking](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/high-performance-spring-persistence/05_persistence_context_flushing_and_dirty_checking.md)
-- [JSON Data Modeling](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/database-design/21_json_data_modeling.md)
-- [HTTP Semantics, Methods, and Versions](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/interview/network-and-web-interview/04_http_semantics_methods_and_versions.md)
-- [Built-In Querydsl Support in Spring Data JPA](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/querydsl/05_built_in_querydsl_support_in_spring_data_jpa.md)
-- [Inner Joins and Table Relationships](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/database/01_inner_joins.md)
-- [PostgreSQL Execution Plans and Query Diagnostics](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/postgresql/11_postgresql_execution_plans_and_query_diagnostics.md)
+- [Elasticsearch Search Responses, Sorting, and Pagination](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/elasticsearch/06_elasticsearch_search_response_sorting_and_pagination.md)
+- [Mediator Pattern](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/design-pattern/13_mediator_pattern.md)
+- [Designing a Proximity Search Service](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/system-design/28_designing_a_proximity_search_service.md)
+- [Designing a Distributed Key-Value Store](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/system-design/08_designing_a_distributed_key_value_store.md)
+- [Building a Top 10 Search Ranking with Redis Sorted Sets](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/redis/06_building_a_top_10_search_ranking_with_redis_sorted_sets.md)
+- [Alerting and Responding to Incidents with Grafana](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/observability/08_alerting_and_responding_to_incidents_with_grafana.md)
+- [Aurora PostgreSQL Replica Lag, DDL, and Failover](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/aurora-postgresql/08_replica_lag_online_ddl_and_failover.md)
 <!-- RECENT_HANDBOOK_DOCS:END -->
 
 ## GitHub Activity
