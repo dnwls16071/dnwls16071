@@ -69,13 +69,13 @@
 ## Technical Docs
 
 <!-- RECENT_HANDBOOK_DOCS:START -->
-- [Querying Chroma and Interpreting Distances](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/llm-rag/11_querying_chroma_and_interpreting_distances.md)
-- [Understanding the Spring Singleton Registry](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/toby-spring/11_understanding_the_spring_singleton_registry.md)
-- [Using Paired Bootstrap for Regression Detection](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/llm-evaluation-harness/13_using_paired_bootstrap_for_regression_detection.md)
-- [MySQL Table Partitioning and Pruning](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/mysql/47_mysql_table_partitioning_and_pruning.md)
-- [Measuring Query Execution with EXPLAIN ANALYZE](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/database-performance/03_measuring_query_execution_with_explain_analyze.md)
-- [JDBC Batching and Statement Caching](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/high-performance-spring-persistence/06_jdbc_batching_and_statement_caching.md)
-- [Kubernetes Workloads, Services, and Ingress](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/aws-eks/03_kubernetes_workloads_services_and_ingress.md)
+- [Consistency Models and Regional Network Partitions](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/interview/distributed-system-interview/05_consistency_models_and_regional_network_partitions.md)
+- [Persistence Context, Flushing, and Dirty Checking](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/high-performance-spring-persistence/05_persistence_context_flushing_and_dirty_checking.md)
+- [JSON Data Modeling](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/database-design/21_json_data_modeling.md)
+- [HTTP Semantics, Methods, and Versions](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/interview/network-and-web-interview/04_http_semantics_methods_and_versions.md)
+- [Built-In Querydsl Support in Spring Data JPA](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/querydsl/05_built_in_querydsl_support_in_spring_data_jpa.md)
+- [Inner Joins and Table Relationships](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/database/01_inner_joins.md)
+- [PostgreSQL Execution Plans and Query Diagnostics](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/postgresql/11_postgresql_execution_plans_and_query_diagnostics.md)
 <!-- RECENT_HANDBOOK_DOCS:END -->
 
 ## GitHub Activity
