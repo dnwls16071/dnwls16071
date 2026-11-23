@@ -69,13 +69,13 @@
 ## Technical Docs
 
 <!-- RECENT_HANDBOOK_DOCS:START -->
-- [Using Paired Bootstrap for Regression Detection](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/llm-evaluation-harness/13_using_paired_bootstrap_for_regression_detection.md)
-- [MySQL Stored Functions](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/mysql/29_mysql_stored_functions.md)
-- [Practical Database Design and Data Modeling](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/mysql/13_practical_database_design_and_data_modeling.md)
-- [HTTP Caching and Conditional Requests](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/http/08_http_caching_and_conditional_requests.md)
-- [Designing Web API Adapters and Error Contracts](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/ddd/06_designing_web_api_adapters_and_error_contracts.md)
-- [Circuit Breaker: MSA 장애 전파를 막는 법](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/architecture-pattern/06_preventing_failure_propagation_in_microservices.md)
-- [Publishing Ticket Events with Kafka and Outbox](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/ticketing-system/11_publishing_ticket_events_with_kafka_and_outbox.md)
+- [외부 우선 Dual Write를 DB 우선과 비교하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/payment-consistency/25_comparing_external_first_and_database_first_writes.md)
+- [Designing Aggregates and Consistency Boundaries](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/ddd/05_designing_aggregates_and_consistency_boundaries.md)
+- [Deploying Spring Microservices on Amazon EKS](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/aws-eks/06_deploying_spring_microservices_on_eks.md)
+- [Persistence Context, Flushing, and Bytecode Enhancement](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/high-performance-java-persistence/07_persistence_context_flushing_and_bytecode_enhancement.md)
+- [아키텍처 갈등 관리: 상황에 맞는 다섯 가지 대응 전략](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/architect-growth-and-leadership/02_five_strategies_for_handling_architectural_conflicts.md)
+- [Writing Kafka Records with Kafka Connect JDBC Sink](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/kafka/32_writing_kafka_records_with_kafka_connect_jdbc_sink.md)
+- [TDD Tooling, CI, and Code Review](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/test-driven-development/05_tdd_tooling_ci_and_code_review.md)
 <!-- RECENT_HANDBOOK_DOCS:END -->
 
 ## GitHub Activity
