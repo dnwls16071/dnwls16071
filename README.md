@@ -66,7 +66,7 @@
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=dnwls16071&amp;repo=backend-engineering-handbook&amp;hide_border=true&amp;theme=react" alt="backend-engineering-handbook repository">
 </a>
 
-## Recent Technical Docs
+## Technical Docs
 
 <!-- RECENT_HANDBOOK_DOCS:START -->
 - [Saga·CQRS·Event Sourcing의 책임을 연결하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-cloud/20_composing_saga_cqrs_and_event_sourcing.md)
