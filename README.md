@@ -1,5 +1,7 @@
-**생각을 코드로 정리하는 백엔드 개발자입니다.**  
-기술 선택의 근거와 트레이드오프를 기록하고, 설계의 타당성을 구현과 운영으로 검증합니다.
+<p align="center">
+  <strong>생각을 코드로 정리하는 백엔드 개발자입니다.</strong><br>
+  기술 선택의 근거와 트레이드오프를 기록하고, 설계의 타당성을 구현과 운영으로 검증합니다.
+</p>
 
 ## Tech Stack
 
@@ -46,12 +48,15 @@
 
 ### [order-system](https://github.com/dnwls16071/order-system)
 
-RabbitMQ로 주문 접수와 재고 차감을 분리했습니다. MySQL Named Lock과 JPA 비관적 락으로 주문과 재고의 동시성을 제어했습니다.  
-k6 부하 테스트에서 **4,000 VU 기준 약 2,230 TPS**를 기록했습니다. [부하 테스트 결과](https://github.com/dnwls16071/order-system#-k6-성능-테스트-결과)
+- RabbitMQ로 주문 접수와 재고 차감을 분리해, API가 메시지 발행 후 바로 응답하도록 구현했습니다.
+- MySQL Named Lock으로 같은 회원의 주문을 순차 처리하고, JPA 비관적 락으로 여러 주문이 동시에 들어올 때 상품 재고를 보호했습니다.
+- k6 가상 사용자 4,000명 조건에서 **초당 약 2,230건**을 기록했고, 테스트 상품의 재고가 예상대로 4,000개 감소한 것을 확인했습니다. [부하 테스트 결과](https://github.com/dnwls16071/order-system#-k6-성능-테스트-결과)
 
 ### [query-performance](https://github.com/dnwls16071/query-performance)
 
-30만 건 데이터에서 필터링 조회가 느려지는 원인을 EXPLAIN으로 분석했습니다. 인덱스와 데이터 분포를 조정한 뒤 Redis Cache-Aside를 적용해 조회 성능을 단계적으로 개선했습니다.
+- 상품 목록 API에 Redis Cache-Aside를 적용해 반복 요청에서 조회 결과를 재사용하도록 구현했습니다.
+- 캐시가 적중하면 MySQL 조회를 건너뛰며, 적중 여부에 따른 SQL 실행과 HTTP 응답 시간을 비교할 수 있도록 실험을 구성했습니다.
+- 캐시 유효 기간을 50초로 설정하고, 만료 후 첫 요청에서 MySQL을 다시 조회해 목록을 갱신하도록 했습니다.
 
 ## Recent Technical Docs
 
