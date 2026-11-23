@@ -1,6 +1,8 @@
+<h2 align="center">About Me</h2>
+
 <p align="center">
-  <strong>생각을 코드로 정리하는 백엔드 개발자입니다.</strong><br>
-  기술 선택의 근거와 트레이드오프를 기록하고, 설계의 타당성을 구현과 운영으로 검증합니다.
+  <strong>I'm a backend developer who turns ideas into code.</strong><br>
+  I document the reasoning and trade-offs behind technical decisions and validate my designs by building and operating the systems.
 </p>
 
 ## Tech Stack
@@ -48,15 +50,21 @@
 
 ### [order-system](https://github.com/dnwls16071/order-system)
 
-- RabbitMQ로 주문 접수와 재고 차감을 분리해, API가 메시지 발행 후 바로 응답하도록 구현했습니다.
-- MySQL Named Lock으로 같은 회원의 주문을 순차 처리하고, JPA 비관적 락으로 여러 주문이 동시에 들어올 때 상품 재고를 보호했습니다.
-- k6 가상 사용자 4,000명 조건에서 **초당 약 2,230건**을 기록했고, 테스트 상품의 재고가 예상대로 4,000개 감소한 것을 확인했습니다. [부하 테스트 결과](https://github.com/dnwls16071/order-system#-k6-성능-테스트-결과)
+- Separated order intake from inventory updates with RabbitMQ so the API could respond as soon as it published the order message.
+- Used MySQL named locks to process orders from the same customer sequentially and JPA pessimistic locking to protect inventory during concurrent orders.
+- Recorded **about 2,230 TPS** in a k6 test with 4,000 virtual users and verified that stock for the test product fell by the expected 4,000 units. [Load test results](https://github.com/dnwls16071/order-system#-k6-성능-테스트-결과)
 
 ### [query-performance](https://github.com/dnwls16071/query-performance)
 
-- 상품 목록 API에 Redis Cache-Aside를 적용해 반복 요청에서 조회 결과를 재사용하도록 구현했습니다.
-- 캐시가 적중하면 MySQL 조회를 건너뛰며, 적중 여부에 따른 SQL 실행과 HTTP 응답 시간을 비교할 수 있도록 실험을 구성했습니다.
-- 캐시 유효 기간을 50초로 설정하고, 만료 후 첫 요청에서 MySQL을 다시 조회해 목록을 갱신하도록 했습니다.
+- Added Redis cache-aside to the product listing API so repeat requests could reuse cached results.
+- Set up a test to compare SQL execution and HTTP response times for cache hits and misses. Cache hits bypass MySQL.
+- Set a 50-second cache TTL so the first request after expiration reloads the product list from MySQL.
+
+## Pinned Repository
+
+<a href="https://github.com/dnwls16071/backend-engineering-handbook">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=dnwls16071&amp;repo=backend-engineering-handbook&amp;hide_border=true&amp;theme=react" alt="backend-engineering-handbook repository">
+</a>
 
 ## Recent Technical Docs
 
@@ -70,9 +78,13 @@
 
 ## GitHub Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=dnwls16071&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=true&amp;theme=github_dark">
-  <img src="https://github-stats-extended.vercel.app/api?username=dnwls16071&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=true&amp;theme=default" alt="dnwls16071 GitHub 활동 통계">
-</picture>
+<img src="https://github-stats-extended.vercel.app/api?username=dnwls16071&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=true&amp;theme=react" alt="dnwls16071 GitHub 활동 통계">
 
-[![백준 solved.ac 티어](https://mazassumnida.wtf/api/v2/generate_badge?boj=dnwls16071)](https://solved.ac/profile/dnwls16071)
+## Problem Solving
+
+[![Baekjoon rank on solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=dnwls16071)](https://solved.ac/profile/dnwls16071)
+
+## Contact
+
+- [GitHub](https://github.com/dnwls16071)
+- [dnwls16071@gmail.com](mailto:dnwls16071@gmail.com)
