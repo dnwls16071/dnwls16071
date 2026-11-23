@@ -69,11 +69,13 @@
 ## Technical Docs
 
 <!-- RECENT_HANDBOOK_DOCS:START -->
-- [Saga·CQRS·Event Sourcing의 책임을 연결하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-cloud/20_composing_saga_cqrs_and_event_sourcing.md)
-- [Kubernetes에서 서비스 발견과 롤링 배포 설계하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-cloud/19_deploying_spring_cloud_services_on_kubernetes.md)
-- [Docker Compose로 쇼핑몰 배포하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-cloud/18_deploying_the_shop_with_docker_compose.md)
-- [서비스 메트릭과 알림 설계하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-cloud/17_designing_service_metrics_and_alerts.md)
-- [서비스 간 요청 분산 추적하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-cloud/16_tracing_cross_service_requests.md)
+- [Using Paired Bootstrap for Regression Detection](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/llm-evaluation-harness/13_using_paired_bootstrap_for_regression_detection.md)
+- [MySQL Stored Functions](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/mysql/29_mysql_stored_functions.md)
+- [Practical Database Design and Data Modeling](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/mysql/13_practical_database_design_and_data_modeling.md)
+- [HTTP Caching and Conditional Requests](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/http/08_http_caching_and_conditional_requests.md)
+- [Designing Web API Adapters and Error Contracts](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/ddd/06_designing_web_api_adapters_and_error_contracts.md)
+- [Circuit Breaker: MSA 장애 전파를 막는 법](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/architecture-pattern/06_preventing_failure_propagation_in_microservices.md)
+- [Publishing Ticket Events with Kafka and Outbox](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/ticketing-system/11_publishing_ticket_events_with_kafka_and_outbox.md)
 <!-- RECENT_HANDBOOK_DOCS:END -->
 
 ## GitHub Activity
