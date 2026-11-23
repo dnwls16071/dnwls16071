@@ -1,0 +1,12 @@
+name: Refresh handbook links on schedule
+
+on:
+  schedule:
+    - cron: "5,15,25,35,45,55 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    uses: ./.github/workflows/update-recent-docs.yml
