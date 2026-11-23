@@ -61,6 +61,11 @@
 ## Recent Technical Docs
 
 <!-- RECENT_HANDBOOK_DOCS:START -->
+- [Saga·CQRS·Event Sourcing의 책임을 연결하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-cloud/20_composing_saga_cqrs_and_event_sourcing.md)
+- [Kubernetes에서 서비스 발견과 롤링 배포 설계하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-cloud/19_deploying_spring_cloud_services_on_kubernetes.md)
+- [Docker Compose로 쇼핑몰 배포하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-cloud/18_deploying_the_shop_with_docker_compose.md)
+- [서비스 메트릭과 알림 설계하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-cloud/17_designing_service_metrics_and_alerts.md)
+- [서비스 간 요청 분산 추적하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-cloud/16_tracing_cross_service_requests.md)
 <!-- RECENT_HANDBOOK_DOCS:END -->
 
 ## GitHub Activity
