@@ -2,7 +2,7 @@ name: Refresh handbook document selection
 
 on:
   schedule:
-    - cron: "13,43 * * * *"
+    - cron: "5,15,25,35,45,55 * * * *"
   workflow_dispatch:
 
 permissions:
