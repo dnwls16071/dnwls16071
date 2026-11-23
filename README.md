@@ -1,8 +1,7 @@
-<p align="center">생각을 코드로 정리하는 백엔드 개발자입니다.</p>
-<p align="center">
-  기술 선택의 근거와 트레이드오프를 명확히 하고 그 판단을 기록하고 공유합니다.<br>
-  AI를 포함한 기술의 가능성과 제약을 살피며 시스템 전체의 관점에서 설계하고 구현과 운영으로 검증합니다.
-</p>
+**생각을 코드로 정리하는 백엔드 개발자입니다.**  
+기술 선택의 근거와 트레이드오프를 기록하고, 설계의 타당성을 구현과 운영으로 검증합니다.
+
+## Tech Stack
 
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-E76F00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" />
@@ -43,23 +42,27 @@
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&amp;logo=terraform&amp;logoColor=white" />
 </p>
 
-## 🏗️ Projects
+## Projects
 
-### [order-system](https://github.com/thought-corner/order-system) - 비동기 주문 시스템(RabbitMQ)
+### [order-system](https://github.com/dnwls16071/order-system)
 
-> **주문 API가 메시지 발행 즉시 응답하고, 컨슈머가 재고 차감·주문 생성을 처리하는 구조입니다.**
-- MySQL Named Lock(주문 단위) + JPA 비관적 락(재고 단위) 이중 락으로 동시성 제어
-- **k6 부하 테스트: 4,000 VUs에서 TPS 2.23k, 실패 0건, 재고 정합성 오차 0** 실측 기록
-- Dead Letter Queue + 재발행으로 실패 메시지 유실 방지, prefetch·컨슈머 수 튜닝 과정 문서화
+RabbitMQ로 주문 접수와 재고 차감을 분리했습니다. MySQL Named Lock과 JPA 비관적 락으로 주문과 재고의 동시성을 제어했습니다.  
+k6 부하 테스트에서 **4,000 VU 기준 약 2,230 TPS**를 기록했습니다. [부하 테스트 결과](https://github.com/dnwls16071/order-system#-k6-성능-테스트-결과)
 
-### [query-performance](https://github.com/thought-corner/query-performance) - 대용량 조회 성능 개선(SQL 튜닝 → Redis 캐싱을 통한 단계적 개선)
+### [query-performance](https://github.com/dnwls16071/query-performance)
 
-> **30만 건 데이터에서 풀 테이블 스캔으로 최대 14초 걸리던 필터링 조회를 단계적으로 개선했습니다.**
-- EXPLAIN으로 풀 테이블 스캔(type: ALL) 확인 → 가격 인덱스 적용으로 조회 시간 **70.5% 단축**(1s → 0.295s)
-- **인덱스를 생성했는데도 동작하지 않던 원인 분석** — 낮은 카디널리티(LocalDate 일 단위 저장 + 중복도 높은 더미 데이터)로 옵티마이저가 인덱스를 버리는 상황을 규명하고, 타입·데이터 분포를 바로잡아 **82.25% 단축** (2s → 0.355s)
-- 시스템 변경 없는 SQL 튜닝을 먼저, 그 위에 Redis Cache-Aside를 얹어 **추가 45.7% 개선**(1.01s → 0.548s) — 캐시-DB 정합성 한계까지 문서화
+30만 건 데이터에서 필터링 조회가 느려지는 원인을 EXPLAIN으로 분석했습니다. 인덱스와 데이터 분포를 조정한 뒤 Redis Cache-Aside를 적용해 조회 성능을 단계적으로 개선했습니다.
+
+## Recent Technical Docs
+
+<!-- RECENT_HANDBOOK_DOCS:START -->
+<!-- RECENT_HANDBOOK_DOCS:END -->
+
+## GitHub Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=dnwls16071&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=github_dark">
-  <img src="https://github-stats-extended.vercel.app/api?username=dnwls16071&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=default" alt="Jang Woo's GitHub stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=dnwls16071&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=true&amp;theme=github_dark">
+  <img src="https://github-stats-extended.vercel.app/api?username=dnwls16071&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=true&amp;theme=default" alt="dnwls16071 GitHub 활동 통계">
 </picture>
+
+[![백준 solved.ac 티어](https://mazassumnida.wtf/api/v2/generate_badge?boj=dnwls16071)](https://solved.ac/profile/dnwls16071)

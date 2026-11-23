@@ -1,0 +1,35 @@
+name: Update recent handbook documents
+
+on:
+  schedule:
+    - cron: "23 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile-recent-docs
+
+jobs:
+  update:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Find recently changed handbook documents
+        run: |
+          git clone --filter=blob:none --no-checkout --single-branch --no-tags --branch main \
+            https://github.com/dnwls16071/backend-engineering-handbook.git "$RUNNER_TEMP/handbook"
+          python3 .github/scripts/update-recent-docs.py "$RUNNER_TEMP/handbook" README.md
+
+      - name: Commit updated document list
+        run: |
+          if git diff --quiet -- README.md; then
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' \
+            -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+            commit -m "docs: refresh recent handbook documents" -- README.md
+          git push origin "HEAD:refs/heads/$GITHUB_REF_NAME"
