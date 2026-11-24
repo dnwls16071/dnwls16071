@@ -69,13 +69,13 @@
 ## Technical Docs
 
 <!-- RECENT_HANDBOOK_DOCS:START -->
-- [MySQL Table Partitioning and Pruning](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/mysql/47_mysql_table_partitioning_and_pruning.md)
-- [MySQL Isolation Anomalies and Data Integrity Tests](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/mysql/55_mysql_isolation_anomalies_and_integrity_tests.md)
-- [모놀리식 계열의 네 가지 아키텍처](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/architecture-style/01_four_types_of_monolithic_architecture.md)
-- [Hooks: 이벤트에 맞춰 개발 워크플로를 자동화하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/codex/08_automating_development_workflows_with_hooks.md)
-- [Joining ksqlDB Streams and Tables](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/kafka/44_joining_ksqldb_streams_and_tables.md)
-- [gRPC Hands-On Lab for Orders and Bidirectional Messaging](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/grpc/04_grpc_order_and_bidirectional_messaging_lab.md)
-- [Connecting Ollama as a Chroma Embedding Function](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/llm-rag/08_connecting_ollama_as_a_chroma_embedding_function.md)
+- [Distributed Systems, RPC, and the Origins of gRPC](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/grpc/01_distributed_systems_rpc_and_the_origins_of_grpc.md)
+- [Designing a Post Creation and Read Service](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/interview/distributed-system-interview/06_designing_a_post_creation_and_read_service.md)
+- [Evaluating Two-Stage Retrieval and Cost](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/llm-rag/28_evaluating_two_stage_retrieval_and_cost.md)
+- [Codex 설정: config.toml로 실행 환경과 동작 제어하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/codex/02_the_complete_guide_to_codex_configuration.md)
+- [Kafka Producer Idempotence and Transactions](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/kafka/06_kafka_producer_idempotence_and_transactions.md)
+- [Implementing the Product Try API](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/distributed-transaction/16_implementing_the_product_try_api.md)
+- [Designing a Nearby Friends Service](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/system-design/29_designing_a_nearby_friends_service.md)
 <!-- RECENT_HANDBOOK_DOCS:END -->
 
 ## GitHub Activity
