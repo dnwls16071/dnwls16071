@@ -69,13 +69,13 @@
 ## Technical Docs
 
 <!-- RECENT_HANDBOOK_DOCS:START -->
-- [가벼운 아키텍처 리뷰: 중요한 변경의 위험을 먼저 찾기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/architecture-documentation-and-evaluation/06_conducting_lightweight_architecture_reviews.md)
-- [Refactoring WebApiExRateProvider](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/toby-spring/26_refactoring_web_api_exchange_rate_provider.md)
-- [Starting a GraphQL API with Apollo Server](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/graphql/03_starting_a_graphql_api_with_apollo_server.md)
-- [쿠버네티스 모니터링에서 메트릭 수집과 해석 이해하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/kubernetes/15_kubernetes_monitoring.md)
-- [Understanding Semantic Search and Embeddings](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/llm-rag/01_understanding_semantic_search_and_embeddings.md)
-- [Outer, Self, and Cross Joins](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/database/02_outer_self_and_cross_joins.md)
-- [Join Algorithms and Query Performance](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/high-performance-sql/02_join_algorithms_and_query_performance.md)
+- [Kotlin Functional Programming with Lambdas and Collections](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/kotlin/04_kotlin_functional_programming_with_lambdas_and_collections.md)
+- [Designing Federated GraphQL Subgraphs](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/graphql/15_designing_federated_graphql_subgraphs.md)
+- [Writing Unit Tests with Jest](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/distributed-environment/04_writing_unit_tests_with_jest.md)
+- [Foreign Keys and Referential Integrity in MySQL](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/mysql/23_foreign_keys_and_referential_integrity_in_mysql.md)
+- [Implementing the Point Cancel API](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/distributed-transaction/22_implementing_the_point_cancel_api.md)
+- [Configuring Spring Boot for Kafka](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/kafka/11_configuring_spring_boot_for_kafka.md)
+- [Spring Batch Parallelism and Transaction Boundaries](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-batch/16_spring_batch_parallelism_and_transaction_boundaries.md)
 <!-- RECENT_HANDBOOK_DOCS:END -->
 
 ## GitHub Activity
