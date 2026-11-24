@@ -69,13 +69,13 @@
 ## Technical Docs
 
 <!-- RECENT_HANDBOOK_DOCS:START -->
-- [Elasticsearch Search Responses, Sorting, and Pagination](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/elasticsearch/06_elasticsearch_search_response_sorting_and_pagination.md)
-- [Mediator Pattern](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/design-pattern/13_mediator_pattern.md)
-- [Designing a Proximity Search Service](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/system-design/28_designing_a_proximity_search_service.md)
-- [Designing a Distributed Key-Value Store](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/system-design/08_designing_a_distributed_key_value_store.md)
-- [Building a Top 10 Search Ranking with Redis Sorted Sets](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/redis/06_building_a_top_10_search_ranking_with_redis_sorted_sets.md)
-- [Alerting and Responding to Incidents with Grafana](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/observability/08_alerting_and_responding_to_incidents_with_grafana.md)
-- [Aurora PostgreSQL Replica Lag, DDL, and Failover](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/aurora-postgresql/08_replica_lag_online_ddl_and_failover.md)
+- [가벼운 아키텍처 리뷰: 중요한 변경의 위험을 먼저 찾기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/architecture-documentation-and-evaluation/06_conducting_lightweight_architecture_reviews.md)
+- [Refactoring WebApiExRateProvider](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/toby-spring/26_refactoring_web_api_exchange_rate_provider.md)
+- [Starting a GraphQL API with Apollo Server](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/graphql/03_starting_a_graphql_api_with_apollo_server.md)
+- [쿠버네티스 모니터링에서 메트릭 수집과 해석 이해하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/kubernetes/15_kubernetes_monitoring.md)
+- [Understanding Semantic Search and Embeddings](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/llm-rag/01_understanding_semantic_search_and_embeddings.md)
+- [Outer, Self, and Cross Joins](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/database/02_outer_self_and_cross_joins.md)
+- [Join Algorithms and Query Performance](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/high-performance-sql/02_join_algorithms_and_query_performance.md)
 <!-- RECENT_HANDBOOK_DOCS:END -->
 
 ## GitHub Activity
