@@ -69,13 +69,13 @@
 ## Technical Docs
 
 <!-- RECENT_HANDBOOK_DOCS:START -->
-- [Kotlin Functional Programming with Lambdas and Collections](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/kotlin/04_kotlin_functional_programming_with_lambdas_and_collections.md)
-- [Designing Federated GraphQL Subgraphs](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/graphql/15_designing_federated_graphql_subgraphs.md)
-- [Writing Unit Tests with Jest](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/distributed-environment/04_writing_unit_tests_with_jest.md)
-- [Foreign Keys and Referential Integrity in MySQL](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/mysql/23_foreign_keys_and_referential_integrity_in_mysql.md)
-- [Implementing the Point Cancel API](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/distributed-transaction/22_implementing_the_point_cancel_api.md)
-- [Configuring Spring Boot for Kafka](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/kafka/11_configuring_spring_boot_for_kafka.md)
-- [Spring Batch Parallelism and Transaction Boundaries](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-batch/16_spring_batch_parallelism_and_transaction_boundaries.md)
+- [MySQL Table Partitioning and Pruning](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/mysql/47_mysql_table_partitioning_and_pruning.md)
+- [MySQL Isolation Anomalies and Data Integrity Tests](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/mysql/55_mysql_isolation_anomalies_and_integrity_tests.md)
+- [모놀리식 계열의 네 가지 아키텍처](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/architecture-style/01_four_types_of_monolithic_architecture.md)
+- [Hooks: 이벤트에 맞춰 개발 워크플로를 자동화하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/codex/08_automating_development_workflows_with_hooks.md)
+- [Joining ksqlDB Streams and Tables](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/kafka/44_joining_ksqldb_streams_and_tables.md)
+- [gRPC Hands-On Lab for Orders and Bidirectional Messaging](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/grpc/04_grpc_order_and_bidirectional_messaging_lab.md)
+- [Connecting Ollama as a Chroma Embedding Function](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/llm-rag/08_connecting_ollama_as_a_chroma_embedding_function.md)
 <!-- RECENT_HANDBOOK_DOCS:END -->
 
 ## GitHub Activity
