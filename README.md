@@ -69,13 +69,13 @@
 ## Technical Docs
 
 <!-- RECENT_HANDBOOK_DOCS:START -->
-- [Distributed Systems, RPC, and the Origins of gRPC](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/grpc/01_distributed_systems_rpc_and_the_origins_of_grpc.md)
-- [Designing a Post Creation and Read Service](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/interview/distributed-system-interview/06_designing_a_post_creation_and_read_service.md)
-- [Evaluating Two-Stage Retrieval and Cost](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/llm-rag/28_evaluating_two_stage_retrieval_and_cost.md)
-- [Codex 설정: config.toml로 실행 환경과 동작 제어하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/codex/02_the_complete_guide_to_codex_configuration.md)
-- [Kafka Producer Idempotence and Transactions](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/kafka/06_kafka_producer_idempotence_and_transactions.md)
-- [Implementing the Product Try API](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/distributed-transaction/16_implementing_the_product_try_api.md)
-- [Designing a Nearby Friends Service](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/system-design/29_designing_a_nearby_friends_service.md)
+- [TCP, UDP, and Connection Lifecycle](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/interview/network-and-web-interview/02_tcp_udp_and_connection_lifecycle.md)
+- [Testing PaymentService with a Fixed Exchange Rate](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/toby-spring/17_testing_payment_service_with_a_fixed_exchange_rate.md)
+- [Uploading Media Directly to Object Storage](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/sns-system/11_uploading_media_directly_to_object_storage.md)
+- [4+1 View Model: 하나의 아키텍처를 여러 관점으로 설명하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/architecture-documentation-and-evaluation/01_understanding_the_four_plus_one_view_model.md)
+- [VARCHAR and TEXT Storage Trade-Offs](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/mysql/26_varchar_and_text_storage_trade_offs.md)
+- [Verifying Distributed Traces with Grafana and TraceQL](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/distributed-tracing/18_verifying_distributed_traces_with_grafana_and_traceql.md)
+- [ADR: 아키텍처 결정의 이유와 결과를 기록하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/architecture-documentation-and-evaluation/03_recording_architectural_decisions_with_adrs.md)
 <!-- RECENT_HANDBOOK_DOCS:END -->
 
 ## GitHub Activity
