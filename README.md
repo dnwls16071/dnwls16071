@@ -69,13 +69,13 @@
 ## Technical Docs
 
 <!-- RECENT_HANDBOOK_DOCS:START -->
-- [Spring AI Fundamentals and LangChain Comparison](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-ai/02_spring_ai_fundamentals_and_langchain_comparison.md)
-- [Alerting and Responding to Incidents with Grafana](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/observability/08_alerting_and_responding_to_incidents_with_grafana.md)
-- [TypeScript에서 async·await로 외부 실패 다루기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/payment-consistency/06_typescript_async_await_and_external_failures.md)
-- [Handling Order Repository Failures](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/toby-spring/37_handling_order_repository_failures.md)
-- [Querydsl 5 Configuration for Spring Boot](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/querydsl/06_querydsl_5_configuration_for_spring_boot.md)
-- [Spring Batch Item Writers and Output](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-batch/07_spring_batch_item_writers_and_output.md)
-- [Configuring Temporal Workers in Spring Boot](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/high-throughput-workflows/18_configuring_temporal_workers_in_spring_boot.md)
+- [Modeling Saga States and Recovery](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/distributed-transaction/03_modeling_saga_states_and_recovery.md)
+- [Caching Seat Reads and Gating Requests with Redis](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/ticketing-system/09_caching_seat_reads_and_gating_requests_with_redis.md)
+- [소프트웨어 아키텍처: 구조와 중요한 결정을 이해하는 기준](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/architecture-overview/01_understanding_software_architecture.md)
+- [Querydsl JPA Fundamentals](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/querydsl/01_querydsl_jpa_fundamentals.md)
+- [MySQL Table Partitioning and Pruning](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/mysql/47_mysql_table_partitioning_and_pruning.md)
+- [쿠버네티스 로깅에서 OpenTelemetry 수집과 Loki 저장·조회 이해하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/kubernetes/16_kubernetes_logging.md)
+- [Microservice Boundaries and Operational Trade-offs](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/microservice-architecture/04_microservice_boundaries_and_operational_tradeoffs.md)
 <!-- RECENT_HANDBOOK_DOCS:END -->
 
 ## GitHub Activity
