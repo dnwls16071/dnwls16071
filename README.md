@@ -69,13 +69,13 @@
 ## Technical Docs
 
 <!-- RECENT_HANDBOOK_DOCS:START -->
-- [Test Scenarios and API Assertions](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/test-driven-development/02_test_scenarios_and_api_assertions.md)
-- [Injecting Test Doubles without a Container](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/toby-spring/19_injecting_test_doubles_without_a_container.md)
-- [Index Condition Pushdown, Covering Indexes, and Skip Scans](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/database-performance/08_index_condition_pushdown_covering_indexes_and_skip_scans.md)
-- [Singleton Pattern](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/design-pattern/04_singleton_pattern.md)
-- [MySQL Metadata Locks and Online DDL](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/mysql/53_mysql_metadata_locks_and_online_ddl.md)
-- [Using JDK Dynamic Proxies and Class-Based Proxies](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/java-internals/04_using_jdk_dynamic_proxies_and_class_based_proxies.md)
-- [Redis Messaging and Command Execution Patterns](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/redis/13_redis_messaging_and_command_execution_patterns.md)
+- [Spring AI Fundamentals and LangChain Comparison](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-ai/02_spring_ai_fundamentals_and_langchain_comparison.md)
+- [Alerting and Responding to Incidents with Grafana](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/observability/08_alerting_and_responding_to_incidents_with_grafana.md)
+- [TypeScript에서 async·await로 외부 실패 다루기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/payment-consistency/06_typescript_async_await_and_external_failures.md)
+- [Handling Order Repository Failures](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/toby-spring/37_handling_order_repository_failures.md)
+- [Querydsl 5 Configuration for Spring Boot](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/querydsl/06_querydsl_5_configuration_for_spring_boot.md)
+- [Spring Batch Item Writers and Output](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-batch/07_spring_batch_item_writers_and_output.md)
+- [Configuring Temporal Workers in Spring Boot](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/high-throughput-workflows/18_configuring_temporal_workers_in_spring_boot.md)
 <!-- RECENT_HANDBOOK_DOCS:END -->
 
 ## GitHub Activity
