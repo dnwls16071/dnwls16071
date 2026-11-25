@@ -69,13 +69,13 @@
 ## Technical Docs
 
 <!-- RECENT_HANDBOOK_DOCS:START -->
-- [TCP, UDP, and Connection Lifecycle](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/interview/network-and-web-interview/02_tcp_udp_and_connection_lifecycle.md)
-- [Testing PaymentService with a Fixed Exchange Rate](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/toby-spring/17_testing_payment_service_with_a_fixed_exchange_rate.md)
-- [Uploading Media Directly to Object Storage](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/sns-system/11_uploading_media_directly_to_object_storage.md)
-- [4+1 View Model: 하나의 아키텍처를 여러 관점으로 설명하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/architecture-documentation-and-evaluation/01_understanding_the_four_plus_one_view_model.md)
-- [VARCHAR and TEXT Storage Trade-Offs](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/mysql/26_varchar_and_text_storage_trade_offs.md)
-- [Verifying Distributed Traces with Grafana and TraceQL](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/distributed-tracing/18_verifying_distributed_traces_with_grafana_and_traceql.md)
-- [ADR: 아키텍처 결정의 이유와 결과를 기록하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/architecture-documentation-and-evaluation/03_recording_architectural_decisions_with_adrs.md)
+- [Test Scenarios and API Assertions](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/test-driven-development/02_test_scenarios_and_api_assertions.md)
+- [Injecting Test Doubles without a Container](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/toby-spring/19_injecting_test_doubles_without_a_container.md)
+- [Index Condition Pushdown, Covering Indexes, and Skip Scans](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/database-performance/08_index_condition_pushdown_covering_indexes_and_skip_scans.md)
+- [Singleton Pattern](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/design-pattern/04_singleton_pattern.md)
+- [MySQL Metadata Locks and Online DDL](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/mysql/53_mysql_metadata_locks_and_online_ddl.md)
+- [Using JDK Dynamic Proxies and Class-Based Proxies](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/java-internals/04_using_jdk_dynamic_proxies_and_class_based_proxies.md)
+- [Redis Messaging and Command Execution Patterns](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/redis/13_redis_messaging_and_command_execution_patterns.md)
 <!-- RECENT_HANDBOOK_DOCS:END -->
 
 ## GitHub Activity
