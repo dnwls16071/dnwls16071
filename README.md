@@ -68,13 +68,13 @@
 ## Technical Docs
 
 <!-- RECENT_HANDBOOK_DOCS:START -->
-- [MySQL DML Fundamentals and Advanced Query Patterns](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/mysql/18_mysql_dml_fundamentals_and_advanced_query_patterns.md)
-- [Verifying Distributed Traces with Grafana and TraceQL](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/distributed-tracing/18_verifying_distributed_traces_with_grafana_and_traceql.md)
-- [Evaluating Open-weight Models with Ollama](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/local-llm/04_evaluating_open_weight_models_with_ollama.md)
-- [Kotlin Annotations and Reflection: Dependency Injection and Type Tokens](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/kotlin/10_kotlin_annotations_reflection_and_type_tokens.md)
-- [Troubleshooting Elasticsearch Cluster and Indexing Issues](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/elasticsearch/12_troubleshooting_elasticsearch_cluster_and_indexing_issues.md)
-- [아키텍처와 설계·구현: 결정의 영향으로 구분하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/architecture-overview/02_architecture_design_and_implementation.md)
-- [Designing a Hotel Reservation Service](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/system-design/33_designing_a_hotel_reservation_service.md)
+- [OAuth 2.0 Client Registration and Authorized Client Storage](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-security/19_oauth2_client_registration_and_authorized_client_storage.md)
+- [Configuring Container Storage and Optimizing Docker Builds](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/docker/02_configuring_container_storage_and_optimizing_docker_builds.md)
+- [Mapping and Saving R2DBC Entities](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-data-r2dbc/03_mapping_and_saving_r2dbc_entities.md)
+- [Publishing Docker Images to Registries with CI/CD](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/docker/04_publishing_docker_images_to_registries_with_ci_cd.md)
+- [Prefix Index Trade-Offs](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/mysql/07_prefix_index_trade_offs.md)
+- [Spring Bean Scopes and Scoped Proxies](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-core/09_spring_bean_scopes_and_scoped_proxies.md)
+- [Aurora PostgreSQL Query Observability and Event-Window Analysis](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/aurora-postgresql/03_query_observability_and_event_window_analysis.md)
 <!-- RECENT_HANDBOOK_DOCS:END -->
 
 ## GitHub Activity
