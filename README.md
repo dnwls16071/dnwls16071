@@ -68,13 +68,13 @@
 ## Technical Docs
 
 <!-- RECENT_HANDBOOK_DOCS:START -->
-- [Modeling Saga States and Recovery](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/distributed-transaction/03_modeling_saga_states_and_recovery.md)
-- [Caching Seat Reads and Gating Requests with Redis](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/ticketing-system/09_caching_seat_reads_and_gating_requests_with_redis.md)
-- [소프트웨어 아키텍처: 구조와 중요한 결정을 이해하는 기준](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/architecture-overview/01_understanding_software_architecture.md)
-- [Querydsl JPA Fundamentals](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/querydsl/01_querydsl_jpa_fundamentals.md)
-- [MySQL Table Partitioning and Pruning](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/mysql/47_mysql_table_partitioning_and_pruning.md)
-- [쿠버네티스 로깅에서 OpenTelemetry 수집과 Loki 저장·조회 이해하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/kubernetes/16_kubernetes_logging.md)
-- [Microservice Boundaries and Operational Trade-offs](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/microservice-architecture/04_microservice_boundaries_and_operational_tradeoffs.md)
+- [MySQL DML Fundamentals and Advanced Query Patterns](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/mysql/18_mysql_dml_fundamentals_and_advanced_query_patterns.md)
+- [Verifying Distributed Traces with Grafana and TraceQL](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/distributed-tracing/18_verifying_distributed_traces_with_grafana_and_traceql.md)
+- [Evaluating Open-weight Models with Ollama](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/local-llm/04_evaluating_open_weight_models_with_ollama.md)
+- [Kotlin Annotations and Reflection: Dependency Injection and Type Tokens](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/kotlin/10_kotlin_annotations_reflection_and_type_tokens.md)
+- [Troubleshooting Elasticsearch Cluster and Indexing Issues](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/elasticsearch/12_troubleshooting_elasticsearch_cluster_and_indexing_issues.md)
+- [아키텍처와 설계·구현: 결정의 영향으로 구분하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/architecture-overview/02_architecture_design_and_implementation.md)
+- [Designing a Hotel Reservation Service](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/system-design/33_designing_a_hotel_reservation_service.md)
 <!-- RECENT_HANDBOOK_DOCS:END -->
 
 ## GitHub Activity
