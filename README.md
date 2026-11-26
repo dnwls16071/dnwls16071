@@ -68,13 +68,13 @@
 ## Technical Docs
 
 <!-- RECENT_HANDBOOK_DOCS:START -->
-- [Three-Tier AWS Infrastructure and Terraform Import](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/terraform/06_three_tier_aws_infrastructure_and_terraform_import.md)
-- [Facade Pattern](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/design-pattern/01_facade_pattern.md)
-- [Generating Embeddings with the Ollama Client](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/llm-rag/06_generating_embeddings_with_the_ollama_client.md)
-- [Uploading Media Directly to Object Storage](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/sns-system/11_uploading_media_directly_to_object_storage.md)
-- [Sliding Window API Rate Limiting with Redis Sorted Sets](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/redis/07_sliding_window_api_rate_limiting_with_redis_sorted_sets.md)
-- [Iterator Pattern](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/design-pattern/24_iterator_pattern.md)
-- [Load Leveling: 폭주하는 요청을 큐로 완충하는 방법](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/architecture-pattern/10_buffering_traffic_spikes_with_queues.md)
+- [Containerizing Spring Boot with Jib and Docker Compose](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/observability/01_containerizing_spring_boot_with_jib_and_docker_compose.md)
+- [Implementing the TCC Order API](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/distributed-transaction/24_implementing_the_tcc_order_api.md)
+- [Tempo Query Execution and Performance](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/distributed-tracing/08_tempo_query_execution_and_performance.md)
+- [Operating Terraform with Cost and Secret Controls](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/terraform/04_operating_terraform_with_cost_and_secret_controls.md)
+- [Saga: 긴 트랜잭션을 나누고 보상하는 방법](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/architecture-pattern/04_saga_pattern.md)
+- [PostgreSQL LISTEN and NOTIFY](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/postgresql/13_postgresql_listen_and_notify.md)
+- [Garbage Collection and Memory Diagnostics](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/interview/java-interview/02_garbage_collection_and_memory_diagnostics.md)
 <!-- RECENT_HANDBOOK_DOCS:END -->
 
 ## GitHub Activity
