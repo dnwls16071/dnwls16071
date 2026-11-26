@@ -68,13 +68,13 @@
 ## Technical Docs
 
 <!-- RECENT_HANDBOOK_DOCS:START -->
-- [OAuth 2.0 Client Registration and Authorized Client Storage](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-security/19_oauth2_client_registration_and_authorized_client_storage.md)
-- [Configuring Container Storage and Optimizing Docker Builds](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/docker/02_configuring_container_storage_and_optimizing_docker_builds.md)
-- [Mapping and Saving R2DBC Entities](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-data-r2dbc/03_mapping_and_saving_r2dbc_entities.md)
-- [Publishing Docker Images to Registries with CI/CD](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/docker/04_publishing_docker_images_to_registries_with_ci_cd.md)
-- [Prefix Index Trade-Offs](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/mysql/07_prefix_index_trade_offs.md)
-- [Spring Bean Scopes and Scoped Proxies](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-core/09_spring_bean_scopes_and_scoped_proxies.md)
-- [Aurora PostgreSQL Query Observability and Event-Window Analysis](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/aurora-postgresql/03_query_observability_and_event_window_analysis.md)
+- [Three-Tier AWS Infrastructure and Terraform Import](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/terraform/06_three_tier_aws_infrastructure_and_terraform_import.md)
+- [Facade Pattern](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/design-pattern/01_facade_pattern.md)
+- [Generating Embeddings with the Ollama Client](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/llm-rag/06_generating_embeddings_with_the_ollama_client.md)
+- [Uploading Media Directly to Object Storage](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/sns-system/11_uploading_media_directly_to_object_storage.md)
+- [Sliding Window API Rate Limiting with Redis Sorted Sets](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/redis/07_sliding_window_api_rate_limiting_with_redis_sorted_sets.md)
+- [Iterator Pattern](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/design-pattern/24_iterator_pattern.md)
+- [Load Leveling: 폭주하는 요청을 큐로 완충하는 방법](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/architecture-pattern/10_buffering_traffic_spikes_with_queues.md)
 <!-- RECENT_HANDBOOK_DOCS:END -->
 
 ## GitHub Activity
