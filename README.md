@@ -62,7 +62,7 @@
 ## Pinned Repository
 
 <a href="https://github.com/dnwls16071/backend-engineering-handbook">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=dnwls16071&amp;repo=backend-engineering-handbook&amp;hide_border=true&amp;theme=react" alt="backend-engineering-handbook repository">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=dnwls16071&amp;repo=backend-engineering-handbook&amp;hide_border=true&amp;theme=react&amp;v=about-20261126" alt="backend-engineering-handbook repository">
 </a>
 
 ## Technical Docs
