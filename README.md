@@ -1,8 +1,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  <strong>I'm a backend developer who turns ideas into code.</strong><br>
-  I document the reasoning and trade-offs behind technical decisions and validate my designs by building and operating the systems.
+  <strong>I’m a backend engineer who turns ideas into code. I lead the AI-Driven Development Lifecycle, using AI where it adds value and applying engineering judgment to decide when to trust, challenge, or revise its output. I document the reasoning and trade-offs behind my technical decisions and validate my designs by building and operating the resulting systems.
 </p>
 
 ## Tech Stack
