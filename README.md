@@ -68,13 +68,13 @@
 ## Technical Docs
 
 <!-- RECENT_HANDBOOK_DOCS:START -->
-- [Containerizing Spring Boot with Jib and Docker Compose](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/observability/01_containerizing_spring_boot_with_jib_and_docker_compose.md)
-- [Implementing the TCC Order API](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/distributed-transaction/24_implementing_the_tcc_order_api.md)
-- [Tempo Query Execution and Performance](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/distributed-tracing/08_tempo_query_execution_and_performance.md)
-- [Operating Terraform with Cost and Secret Controls](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/terraform/04_operating_terraform_with_cost_and_secret_controls.md)
-- [Saga: 긴 트랜잭션을 나누고 보상하는 방법](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/architecture-pattern/04_saga_pattern.md)
-- [PostgreSQL LISTEN and NOTIFY](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/postgresql/13_postgresql_listen_and_notify.md)
-- [Garbage Collection and Memory Diagnostics](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/interview/java-interview/02_garbage_collection_and_memory_diagnostics.md)
+- [Verifying Hexagonal Architecture Boundaries](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/ddd/09_verifying_hexagonal_architecture_boundaries.md)
+- [Aggregate Table Design](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/database-design/18_aggregate_table_design.md)
+- [Kotlin Object-Oriented Programming: Classes, Inheritance, and Objects](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/kotlin/03_kotlin_object_oriented_programming.md)
+- [Unit Testing with JUnit 5](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/practical-testing/01_unit_testing_with_junit_5.md)
+- [송금 완료와 실패의 판정 기준 정하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/payment-consistency/39_defining_payout_completion_criteria.md)
+- [Spring MVC Messages and Internationalization](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-mvc/09_spring_mvc_messages_and_internationalization.md)
+- [S3 Presigned URL로 직접 업로드하고 완료를 검증하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/aws/03_uploading_objects_with_s3_presigned_urls.md)
 <!-- RECENT_HANDBOOK_DOCS:END -->
 
 ## GitHub Activity
