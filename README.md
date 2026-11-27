@@ -68,13 +68,13 @@
 ## Technical Docs
 
 <!-- RECENT_HANDBOOK_DOCS:START -->
-- [Pod Probe로 기동, 요청 준비와 복구 조건 나누기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/kubernetes/04_probe.md)
-- [Implementing Temporal Workflows and Activities](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/high-throughput-workflows/19_implementing_temporal_workflows_and_activities.md)
-- [Database Transactions and Locking](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-db/03_database_transactions_and_locking.md)
-- [Elasticsearch Metric and Bucket Aggregations](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/elasticsearch/07_elasticsearch_metric_and_bucket_aggregations.md)
-- [Object-Oriented Design and SOLID Principles](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/readable-code/02_object_oriented_design_and_solid_principles.md)
-- [Testing GraphQL Services and Operations](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/graphql/14_testing_graphql_services_and_operations.md)
-- [Exercising Integration and End-to-End Tests](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/distributed-environment/05_exercising_integration_and_end_to_end_tests.md)
+- [Decomposing Services by Domain Boundaries](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/microservice-architecture/05_decomposing_services_by_domain_boundaries.md)
+- [Reducing Database Write Load with Redis Lists](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/redis/04_reducing_database_write_load_with_redis_lists.md)
+- [B2B 파트너 API: 인증·요청 검증·인가와 키 수명주기 설계하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/engineering-design-training/07_designing_authentication_and_authorization_for_b2b_partner_apis.md)
+- [Redis Key Management and Data Persistence](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/redis/12_redis_key_management_and_data_persistence.md)
+- [gRPC Performance and Operational Best Practices](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/grpc/03_grpc_performance_and_operational_best_practices.md)
+- [Java Resource Performance Tuning](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/java-performance-tuning-and-troubleshooting/01_java_resource_performance_tuning.md)
+- [부하 테스트의 기본 개념과 도구 선정](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/load-testing-guideline/01_load_test_concept.md)
 <!-- RECENT_HANDBOOK_DOCS:END -->
 
 ## GitHub Activity
