@@ -68,13 +68,13 @@
 ## Technical Docs
 
 <!-- RECENT_HANDBOOK_DOCS:START -->
-- [Verifying Hexagonal Architecture Boundaries](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/ddd/09_verifying_hexagonal_architecture_boundaries.md)
-- [Aggregate Table Design](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/database-design/18_aggregate_table_design.md)
-- [Kotlin Object-Oriented Programming: Classes, Inheritance, and Objects](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/kotlin/03_kotlin_object_oriented_programming.md)
-- [Unit Testing with JUnit 5](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/practical-testing/01_unit_testing_with_junit_5.md)
-- [송금 완료와 실패의 판정 기준 정하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/payment-consistency/39_defining_payout_completion_criteria.md)
-- [Spring MVC Messages and Internationalization](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-mvc/09_spring_mvc_messages_and_internationalization.md)
-- [S3 Presigned URL로 직접 업로드하고 완료를 검증하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/aws/03_uploading_objects_with_s3_presigned_urls.md)
+- [Pod Probe로 기동, 요청 준비와 복구 조건 나누기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/kubernetes/04_probe.md)
+- [Implementing Temporal Workflows and Activities](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/high-throughput-workflows/19_implementing_temporal_workflows_and_activities.md)
+- [Database Transactions and Locking](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/spring-db/03_database_transactions_and_locking.md)
+- [Elasticsearch Metric and Bucket Aggregations](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/elasticsearch/07_elasticsearch_metric_and_bucket_aggregations.md)
+- [Object-Oriented Design and SOLID Principles](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/readable-code/02_object_oriented_design_and_solid_principles.md)
+- [Testing GraphQL Services and Operations](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/graphql/14_testing_graphql_services_and_operations.md)
+- [Exercising Integration and End-to-End Tests](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/distributed-environment/05_exercising_integration_and_end_to_end_tests.md)
 <!-- RECENT_HANDBOOK_DOCS:END -->
 
 ## GitHub Activity
