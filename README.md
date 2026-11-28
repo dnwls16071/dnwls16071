@@ -68,13 +68,13 @@
 ## Technical Docs
 
 <!-- RECENT_HANDBOOK_DOCS:START -->
-- [체크섬과 암호학적 해시](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/ssl-and-cryptography/01_understanding_checksums_and_cryptographic_hashes.md)
-- [Migrating Chunking and Embedding Strategies](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/llm-rag/18_migrating_chunking_and_embedding_strategies.md)
-- [Reasoning About Kafka Delivery Guarantees](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/high-throughput-workflows/08_reasoning_about_kafka_delivery_guarantees.md)
-- [Inspecting MySQL Configuration, Access, and Performance](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/mysql/12_inspecting_mysql_configuration_access_and_performance.md)
-- [Cross-Service Queries, CQRS, and Event Sourcing](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/microservice-architecture/10_cross_service_queries_cqrs_and_event_sourcing.md)
-- [SLI·SLO·Error Budget: 사용자 경험을 측정하고 신뢰성을 관리하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/architecture-design-for-operations/01_managing_reliability_with_slis_slos_and_error_budgets.md)
-- [Kotlin Fundamentals: Variables, Null Safety, Types, and Operators](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/kotlin/01_kotlin_variables_null_safety_types_and_operators.md)
+- [외부 우선 Dual Write를 DB 우선과 비교하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/payment-consistency/25_comparing_external_first_and_database_first_writes.md)
+- [Database Performance and Query Execution Architecture](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/database-performance/01_database_performance_and_query_execution_architecture.md)
+- [Database Connections and Pooling](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/interview/database-interview/05_database_connections_and_pooling.md)
+- [Decorator Pattern](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/design-pattern/16_decorator_pattern.md)
+- [Testing Orchestrated Saga Failure Paths](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/distributed-transaction/36_testing_orchestrated_saga_failure_paths.md)
+- [Test Fixtures and State Isolation](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/test-driven-development/03_test_fixtures_and_state_isolation.md)
+- [헥사고날 아키텍처: 포트와 어댑터로 업무 로직을 기술에서 떼어 내기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/architecture-pattern/09_decoupling_business_logic_from_technology_with_ports_and_adapters.md)
 <!-- RECENT_HANDBOOK_DOCS:END -->
 
 ## GitHub Activity
