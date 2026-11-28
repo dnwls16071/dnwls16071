@@ -68,13 +68,13 @@
 ## Technical Docs
 
 <!-- RECENT_HANDBOOK_DOCS:START -->
-- [Decomposing Services by Domain Boundaries](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/microservice-architecture/05_decomposing_services_by_domain_boundaries.md)
-- [Reducing Database Write Load with Redis Lists](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/redis/04_reducing_database_write_load_with_redis_lists.md)
-- [B2B 파트너 API: 인증·요청 검증·인가와 키 수명주기 설계하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/engineering-design-training/07_designing_authentication_and_authorization_for_b2b_partner_apis.md)
-- [Redis Key Management and Data Persistence](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/redis/12_redis_key_management_and_data_persistence.md)
-- [gRPC Performance and Operational Best Practices](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/grpc/03_grpc_performance_and_operational_best_practices.md)
-- [Java Resource Performance Tuning](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/java-performance-tuning-and-troubleshooting/01_java_resource_performance_tuning.md)
-- [부하 테스트의 기본 개념과 도구 선정](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/load-testing-guideline/01_load_test_concept.md)
+- [체크섬과 암호학적 해시](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/ssl-and-cryptography/01_understanding_checksums_and_cryptographic_hashes.md)
+- [Migrating Chunking and Embedding Strategies](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/llm-rag/18_migrating_chunking_and_embedding_strategies.md)
+- [Reasoning About Kafka Delivery Guarantees](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/high-throughput-workflows/08_reasoning_about_kafka_delivery_guarantees.md)
+- [Inspecting MySQL Configuration, Access, and Performance](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/mysql/12_inspecting_mysql_configuration_access_and_performance.md)
+- [Cross-Service Queries, CQRS, and Event Sourcing](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/microservice-architecture/10_cross_service_queries_cqrs_and_event_sourcing.md)
+- [SLI·SLO·Error Budget: 사용자 경험을 측정하고 신뢰성을 관리하기](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/architecture-design-for-operations/01_managing_reliability_with_slis_slos_and_error_budgets.md)
+- [Kotlin Fundamentals: Variables, Null Safety, Types, and Operators](https://github.com/dnwls16071/backend-engineering-handbook/blob/main/kotlin/01_kotlin_variables_null_safety_types_and_operators.md)
 <!-- RECENT_HANDBOOK_DOCS:END -->
 
 ## GitHub Activity
